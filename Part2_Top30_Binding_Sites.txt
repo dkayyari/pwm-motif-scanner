@@ -1,0 +1,40 @@
+PART 2 — MOTIF SCANNING
+Top 30 Predicted argR Binding Sites from Upstream Regulatory Regions
+Total sequences scanned: 4319
+Both forward (+) and reverse complement (-) strands scanned
+Motif length: 18 bases
+
+==========================================================================================
+Rank  Gene ID             Score  Position  Strand   Binding Site Sequence
+------------------------------------------------------------------------------------------
+1     b3171             20.9815       102       +   TCACTGAATTTTTATGCA
+2     16131063          20.9815       101       -   TCACTGAATTTTTATGCA
+3     16128258          20.7632       353       +   AAAGTGAATTTTAATTCA
+4     16128828          20.5262       119       -   CAAGTGAATTTATATGCA
+5     16132076          19.9152       355       +   AAATTGAATTTTAATTCA
+6     16132077          19.9152       168       -   AAATTGAATTTTAATTCA
+7     16131126          19.0932         8       +   CAGATGAATTTTTATGCA
+8     16131127          19.0932        94       -   CAGATGAATTTTTATGCA
+9     16131238          18.8847       329       +   TTAGTGATTTTTTATGCA
+10    b4426             18.3237        81       -   TGAATGAATAATCATGCA
+11    16129301          18.3237       260       +   TGAATGAATAATCATGCA
+12    16130583          18.2607       298       -   AAAGTGAATAAAAATGCA
+13    16128684          18.0867       269       +   CTAATGTATATTTATGCA
+14    16128685          18.0867       191       -   CTAATGTATATTTATGCA
+15    16131795          17.8847       333       +   TTAGTGTATTTTTATTCA
+16    16131796          17.8847       138       -   TTAGTGTATTTTTATTCA
+17    16128203          17.6298       226       -   TTATTGAATTTTAATGAA
+18    16128026          17.1801       349       +   ATTGTGAATTAATATGCA
+19    16129126          17.1742        68       +   TCACTGAATTTTGATGCA
+20    16129127          17.1742        33       -   TCACTGAATTTTGATGCA
+21    16129128          17.1742       312       -   TCACTGAATTTTGATGCA
+22    16129617          17.0342       151       -   TTAGAGAATATACATGCA
+23    49176132          17.0342       387       +   TTAGAGAATATACATGCA
+24    16128822          16.8847       253       -   TTAACAAATTTTTATGCA
+25    16128462          16.6351       288       +   AAATTCAATAATTATTCA
+26    16128832          16.6165       105       -   TGACAGAATAATTATGCA
+27    16131312          16.3928       127       +   CAAATGCATTTTTTTGCA
+28    b4451             16.3928       338       +   CAAATGCATTTTTTTGCA
+29    16131313          16.3928       111       -   CAAATGCATTTTTTTGCA
+30    16128105          16.3038       139       +   AAAACGAATTTAAATTCA
+==========================================================================================
